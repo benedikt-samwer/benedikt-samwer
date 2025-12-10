@@ -1,36 +1,37 @@
 # Hi, I'm Benedikt 👋
 
-MSc student in Applied Computational Science and Engineering at Imperial College London, working on data driven ML for scientific and medical applications.
+Venture Fellow at Spira Labs and Picus Capital, with an MSc in Applied Computational Science and Engineering from Imperial College London. I like building ML systems for healthcare and scientific problems.
 
-- 🔬 Interests: Deep Learning, Optimization, Scientific Computing, Medical AI
+- 🔬 Interests: Medical AI, representation learning, optimization, scientific machine learning
 - 💻 Mainly using: Python, C++, PyTorch, CUDA, MPI, Docker, Git
-- 📍 Based in Munich and London
+- 🌍 Based in Munich, previously in London and Boston
 - 🌐 Languages: German, English
 
-## Featured Projects
+## Featured projects
 
-- ⚙️ **Imperial Deep Learning Repo**  
-  Experimental and coursework projects in deep learning, with a focus on training stability, evaluation, and reproducibility.  
-  [`link`](link)
+- 🧠 **Early pancreatic cancer detection on CT**  
+  3D CNN and radiomics models for pre diagnostic CT, focused on calibration, uncertainty, and clinical usability.  
+  [`https://github.com/benedikt-samwer/harvard_masterthesis`](link)
 
-- 🌍 **Geophysics Inversion FWI**  
-  Numerical optimization and simulation for full waveform inversion, including gradient based methods and HPC oriented implementation.  
-  [`link`](link)
+- 🌍 **Full waveform inversion for geophysics**  
+  Numerical optimization and simulation for seismic imaging, gradient based methods and HPC oriented implementation.  
+  [`https://github.com/benedikt-samwer/imperial_genetic_algorithm_group_project`](link)
 
-- 🧠 **Master Thesis: Early Pancreatic Cancer Detection**  
-  3D CNN and radiomics based models for pre diagnostic CT analysis, focusing on calibration, uncertainty, and clinical usability.  
-  [`link`](link)
+- ⚙️ **Imperial deep learning experiments**  
+  Collection of coursework and experimental projects, with an emphasis on training stability, evaluation, and reproducibility.  
+  [`https://github.com/benedikt-samwer/imperial_deep_learning_1`](link)
 
 ## Currently
 
-- 🧪 Working on my MSc thesis in collaboration with Dana Farber Cancer Institute and Harvard Medical School on early cancer detection from CT.  
-- 🧩 Exploring ML for healthcare, scientific computing, and decision support systems.
+- 🚀 Exploring venture ideas in healthcare and AI at Spira Labs and Picus Capital as a Venture Fellow.
+- 🧪 Working on ML for early cancer detection and medical imaging, drawing on my DFCI and Harvard Medical School internship.
+- 🧩 Playing with LLM agents, retrieval pipelines, and evaluation setups for real world use cases.
 
 ## Tech I use
 
 - **Core**: Python, C++, SQL  
 - **ML**: PyTorch, scikit learn, NumPy, Pandas  
-- **Systems**: CUDA, MPI, Docker, Git, CI  
+- **Systems**: CUDA, MPI, Docker, Git, simple CI  
 - **Cloud**: AWS, GCP
 
 ## Get in touch
