@@ -11,15 +11,15 @@ Venture Fellow at Spira Labs and Picus Capital, with an MSc in Applied Computati
 
 - 🧠 **Early pancreatic cancer detection on CT**  
   3D CNN and radiomics models for pre diagnostic CT, focused on calibration, uncertainty, and clinical usability.  
-  [`https://github.com/benedikt-samwer/harvard_masterthesis`](link)
+  [`link`](https://github.com/benedikt-samwer/harvard_masterthesis)
 
 - 🌍 **Full waveform inversion for geophysics**  
   Numerical optimization and simulation for seismic imaging, gradient based methods and HPC oriented implementation.  
-  [`https://github.com/benedikt-samwer/imperial_genetic_algorithm_group_project`](link)
+  [`link`](https://github.com/benedikt-samwer/imperial_genetic_algorithm_group_project)
 
 - ⚙️ **Imperial deep learning experiments**  
   Collection of coursework and experimental projects, with an emphasis on training stability, evaluation, and reproducibility.  
-  [`https://github.com/benedikt-samwer/imperial_deep_learning_1`](link)
+  [`link`](https://github.com/benedikt-samwer/imperial_deep_learning_1)
 
 ## Currently
 
