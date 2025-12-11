@@ -1,6 +1,6 @@
 # Hi, I'm Benedikt 👋
 
-Venture Fellow at Spira Labs and Picus Capital, with an MSc in Applied Computational Science and Engineering from Imperial College London. I like building ML systems for healthcare and scientific problems.
+Venture Fellow at Spira Labs and Picus Capital, with an MSc in Applied Computational Science and Engineering from Imperial College London. I like building ML systems for real world and scientific problems.
 
 - 🔬 Interests: Medical AI, representation learning, optimization, scientific machine learning
 - 💻 Mainly using: Python, C++, PyTorch, CUDA, MPI, Docker, Git
