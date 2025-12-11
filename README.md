@@ -28,7 +28,7 @@ Venture Fellow at Spira Labs and Picus Capital, with an MSc in Applied Computati
 
 - **Core**: Python, C++, SQL  
 - **ML**: PyTorch, scikit learn, NumPy, Pandas  
-- **Systems**: CUDA, MPI, Docker, Git, simple CI  
+- **Systems**: CUDA, MPI, Docker, Git, CI  
 - **Cloud**: AWS, GCP
 
 ## Get in touch
