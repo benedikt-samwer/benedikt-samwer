@@ -35,4 +35,4 @@ Venture Fellow at Spira Labs and Picus Capital, with an MSc in Applied Computati
 
 - 📫 Email: [benedikt.samwer@gmail.com](mailto:benedikt.samwer@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/benedikt-samwer](https://www.linkedin.com/in/benedikt-samwer)  
-
+- 💻 GitHub: [github.com/benedikt-samwer](https://github.com/benedikt-samwer)
